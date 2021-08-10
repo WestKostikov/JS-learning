@@ -33,3 +33,5 @@ adv.forEach(item => {
 });
 
 genre.textContent = 'ДРАМА';
+
+poster.style.backgroundImage = "url('img/bg.jpg')";
